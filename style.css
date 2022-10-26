@@ -30,8 +30,12 @@ li {
   text-align: center;
 }
 
-i {
-  margin: 5px;
+.icon-left {
+  margin-right: 5px;
+}
+
+.icon-right {
+  margin-left: 5px;
 }
 
 .container {
